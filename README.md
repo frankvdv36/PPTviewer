@@ -1,6 +1,6 @@
 # PPTviewer
 ## Beschrijving
-Bedoeling is om een scherm zichtbaar op te stellen in een winkel met daarop advertenties, nieuwigheden, contactgegvens, enz.  
+Bedoeling is om een scherm zichtbaar op te stellen in een winkel met daarop advertenties, nieuwigheden, contactgegevens, enz.  
 Bron is een PowerPoinT waarop alles wordt voorbereid. Libreoffice laat de PPT zien. 
 Ook een autostart is nodig daar de Raspberry Pi aan het scherm wordt gemonteerd. Dus geen muis of toetsenbord. Wel bereikbaar via VNC.
 ## Bronnen
