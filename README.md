@@ -26,8 +26,8 @@ De PPT wordt mooi zichtbaar in full screen.
 - Toch gebeurt het dat de PPT soms blijft hangen op een bepaalde silde. Met een muis bewegen of 'space' loopt deze weer verder.
 - Met bullseye, Rasbian11, wordt bij Libreoffice de jablonen niet meegenomen van Microsoft naar Libreoffice. Witte achtergrond als resultaat.
 Als het programma mooi opgestart en afgesloten wordt zijn er geen problemen.
-- Er zijn wel problemen als de voeding plots uitvalt. Bij het opnieuw opstrten komen er vragen die moeten beantwoord worden (herstellen?)
-- Daarom blijft bij het opstarten de vertoning uit. Menselijke tussenkomst is dan nodig. Mogelijks kan dit met enkele instructies tijdens het opstarten voorkomen worden.  
+- Er zijn wel problemen als de voeding plots uitvalt. Bij het opnieuw opstarten komen er vragen die moeten beantwoord worden (herstellen?)
+- Daarom blijft bij het opstarten de vertoning uit. Manuele tussenkomst is dan nodig. Mogelijks kan dit met enkele instructies tijdens het opstarten voorkomen worden.  
 ## Alternatieve oplossing
 Tijdens opzoekwerk werd verwezen naar 'Screenly OS'. Dit is geïnstalleerd na de installatie Raspberry PI OS, Buster. Nog niet geprobeerd op Bullseye 
 Bij opstarten komt Screenly automatisch op het scherm met daarop het IP adres waarmee kan gecommuniceerd worden.
