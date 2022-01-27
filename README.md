@@ -13,7 +13,7 @@ In de eerste cursus op raspberry.pindanet.be hebben we het volgende geleerd:
 Hardware kan een PI3B+ zijn en als het kan een Zero2W.
 ## Software
 File in /etc/xdg/lxsession/LXDE-pi/autostart
-schakel sscreensaver uit
+schakel screensaver uit
 - @xset s noblank 
 - @xset s off (screensaver Off)
 - @xset -dpms (Display Power Management Signaling)
