@@ -16,7 +16,7 @@ File in /etc/xdg/lxsession/LXDE-pi/autostart
 - schakel sscreensaver uit
 @xset s noblank
 @xset s off
-@xset -apms
+@xset -dpms
 - starten van de PPT bij opstarten of reboot
 libreoffice --show /home/pi/PPT/VDVCOM.odp
 ## Eigen scripts en programma's
