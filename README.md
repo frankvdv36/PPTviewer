@@ -8,7 +8,7 @@ In de eerste cursus op raspberry.pindanet.be hebben we het volgende geleerd:
 - Uitschakelen van screenblanking via lxterminal
 - Opstarten van een programma in lxterminal 
 - Idem maar nu met de automatische start van de PPT bij power-up of reboot 
-- Met NANO de nodige aan aanpassing maken in AUTOSTART 
+- Met 'nano' de nodig aanpassing maken in AUTOSTART 
 ## Hardware
 
 ## Software
