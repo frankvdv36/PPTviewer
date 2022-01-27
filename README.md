@@ -29,8 +29,10 @@ Als het programma mooi opgestart en afgesloten wordt zijn er geen problemen.
 - Er zijn wel problemen als de voeding plots uitvalt. Bij het opnieuw opstarten komen er vragen die moeten beantwoord worden (herstellen?)
 - Daarom blijft bij het opstarten de vertoning uit. Manuele tussenkomst is dan nodig. Mogelijks kan dit met enkele instructies tijdens het opstarten voorkomen worden.  
 ## Alternatieve oplossing
-Tijdens opzoekwerk werd verwezen naar 'Screenly OS'. Dit is geïnstalleerd na de installatie Raspberry PI OS, Buster. Nog niet geprobeerd op Bullseye 
+Tijdens opzoekwerk werd verwezen naar 'Screenly OSE'. https://www.screenly.io/ose/
+Dit is geïnstalleerd na de installatie Raspberry PI OS, Buster. Nog niet geprobeerd op Bullseye 
 Bij opstarten komt Screenly automatisch op het scherm met daarop het IP adres waarmee kan gecommuniceerd worden.
-Er zijn 2 mogelijheden, ofwel file oploaden, ofwel URL aanduiden waar de info staat. Er kunnen meerdere files geselecteerd worden met een schakelaar om al of niet te vertonen.
-Bij het heropstarten krijgt men het zelfde scherm maar na een tijd begint het systeem vanzelf met de file die ooit eens aangeboden is.
-https://www.screenly.io/ose/
+Er zijn 2 mogelijkheden, ofwel file uploaden, ofwel URL aanduiden waar de info staat. 
+Er kunnen meerdere files geselecteerd worden met een schakelaar om al of niet te vertonen.
+Bij het heropstarten krijgt men hetzelfde scherm maar na een tijdje begint het systeem vanzelf met de laatste vertoning.
+
