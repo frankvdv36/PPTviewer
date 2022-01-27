@@ -33,3 +33,4 @@ Tijdens opzoekwerk werd verwezen naar 'Screenly OS'. Dit is geïnstalleerd na de
 Bij opstarten komt Screenly automatisch op het scherm met daarop het IP adres waarmee kan gecommuniceerd worden.
 Er zijn 2 mogelijheden, ofwel file oploaden, ofwel URL aanduiden waar de info staat. Er kunnen meerdere files geselecteerd worden met een schakelaar om al of niet te vertonen.
 Bij het heropstarten krijgt men het zelfde scherm maar na een tijd begint het systeem vanzelf met de file die ooit eens aangeboden is.
+https://www.screenly.io/ose/
