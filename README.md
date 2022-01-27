@@ -23,4 +23,4 @@ libreoffice --show /home/pi/PPT/VDVCOM.odp
 
 ## Resultaten en opmerkingen
 
-## Oplossingen
+## Alternatieve oplossing
